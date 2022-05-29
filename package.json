@@ -1,0 +1,23 @@
+{
+  "name": "modrinth-api",
+  "version": "1.0.0",
+  "description": "Modrinth API Library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vikbor5342/modrinth-api.git"
+  },
+  "keywords": [
+    "Modrinth",
+    "API"
+  ],
+  "author": "vikbor5342",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vikbor5342/modrinth-api/issues"
+  },
+  "homepage": "https://github.com/Vikbor5342/modrinth-api#readme",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
